@@ -2258,6 +2258,7 @@ input, select, textarea {
 		background-size: 256px 256px, contain;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
+		background-repeat: repeat, no-repeat;
 	}
 
 /* Two */
@@ -2267,6 +2268,7 @@ input, select, textarea {
 		background-size: 256px 256px, contain;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
+		background-repeat: repeat, no-repeat;
 	}
 
 /* Contact */
